@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element>
+        <name>MacBook</name>
+        <price>1000</price>
+    </element>
+    <element>
+        <name>Table</name>
+        <price>300</price>
+    </element>
+    <element>
+        <name>Pen</name>
+        <price>10</price>
+    </element>
+    <element>
+        <name>Tea</name>
+        <price>50</price>
+    </element>
+    <element>
+        <name>Book</name>
+        <price>100</price>
+    </element>
+</root>
